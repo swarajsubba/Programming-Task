@@ -1,0 +1,36 @@
+[
+  {
+    "question": "Favourite programming language?",
+    "published_at": "2015-08-05T08:40:51.620Z",
+    "choices": [
+      {
+        "choice": "Unity",
+        "votes": 2048
+      },
+      {
+        "choice": "Python",
+        "votes": 1024
+      },
+      {
+        "choice": "Objective-C",
+        "votes": 512
+      },
+      {
+        "choice": "Ruby",
+        "votes": 256
+      },
+      {
+        "choice": "Swift",
+        "votes": 128
+      },
+      {
+        "choice": "Node Js",
+        "votes": 96
+      },
+      {
+        "choice": "PHP",
+        "votes": 32
+      }
+    ]
+  }
+]
