@@ -1,6 +1,10 @@
-﻿<Properties StartupConfiguration="{1D81F86B-28A1-2297-0957-4DDCC02D4D3A}|">
-  <MonoDevelop.Ide.Workbench />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{1D81F86B-28A1-2297-0957-4DDCC02D4D3A}|" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SceneHandler.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SceneHandler.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
